@@ -1,0 +1,68 @@
+.reveal .sourceCode.r .kw, .sourceCode.r .er {
+  color:inherit;
+  font-weight: normal;
+}
+.reveal .sourceCode.r .co {
+  font-style: normal;
+}
+
+.reveal .slides {
+  text-align: inherit;
+}
+
+.reveal .slide.level2 h1 {
+  font-size: 48px;
+}
+
+.reveal pre code {
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+h1.title {
+  font-size: 64px;
+  color: DarkRed;
+}
+
+
+h4{
+    display:inline;
+    background-color:#158C59;
+    color:white;
+    padding:5px;
+    font-size: 20px;
+}
+
+.column-left{
+  float: left;
+  width: 30%;
+  text-align: left;
+}
+
+.column-right{
+  float: right;
+  width: 70%;
+  text-align: right;
+}
+
+.column-left1{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+
+.column-right1{
+  float: right;
+  width: 50%;
+  text-align: right;
+}
+
+h4.author {
+  font-size: 16px;
+  color: DarkBlue;
+}
+
+.reveal section img {
+    border: none;
+    box-shadow: none;
+  }
